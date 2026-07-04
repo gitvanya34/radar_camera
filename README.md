@@ -16,6 +16,7 @@
 
 [Screencast from 20.03.2026 13:15:45.webm](https://github.com/user-attachments/assets/7b2a50b3-b90e-4e5f-95cb-20f1bb05dffb)
 
+<img  width="50%" alt="3" src="https://github.com/gitvanya34/radar_camera/blob/main/4.png" />
 ## Перехват пакетов Wireshark
 
 Произведен анализ трафика с радара на
